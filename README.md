@@ -82,6 +82,8 @@ Number of Attacks.
 - Types of Attacks.
 ![Screenshot (214)](https://github.com/user-attachments/assets/7fdaec5e-9a5f-41fc-bcf8-fc5b7f8d4b90)
 
+### For more insights refer to the .pynb file.
+
 ## Conclusion:
 By performing EDA on the Global Terrorism Dataset, we gain valuable insights into the patterns and trends of terrorism activities worldwide. These insights can help in improving public safety, informing policy decisions, and guiding further research in terrorism studies.
 
